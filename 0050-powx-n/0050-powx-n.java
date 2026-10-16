@@ -1,18 +1,19 @@
 
+
 class Solution {
     public static double myPow(double x, int n) {
-        long p = n;
-        if (p < 0) p = -p;
+        if (n == 0) return 1.0;
 
-        double ans = 1.0;
-
-        while (p > 0) {
-            if ((p & 1) == 1) ans *= x;
-            x *= x;
-            p >>= 1;
+        if (n < 0) {
+            return 1.0 / myPow(x, -(n + 1)) / x;
         }
 
-        return n < 0 ? 1.0 / ans : ans;
+        double half = myPow(x, n / 2);
+
+        if (n % 2 == 0)
+            return half * half;
+
+        return x * half * half;
     }
 
 
