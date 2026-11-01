@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya2806406/Java-DSA-Practice/tree/master/0200-number-of-islands) |
+| [0566-reshape-the-matrix](https://github.com/aditya2806406/Java-DSA-Practice/tree/master/0566-reshape-the-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -21,4 +22,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/aditya2806406/Java-DSA-Practice/tree/master/0200-number-of-islands) |
+| [0566-reshape-the-matrix](https://github.com/aditya2806406/Java-DSA-Practice/tree/master/0566-reshape-the-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0566-reshape-the-matrix](https://github.com/aditya2806406/Java-DSA-Practice/tree/master/0566-reshape-the-matrix) |
 <!---LeetCode Topics End-->
