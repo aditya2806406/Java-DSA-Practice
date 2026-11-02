@@ -31,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/aditya2806406/Java-DSA-Practice/tree/master/0566-reshape-the-matrix) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/aditya2806406/Java-DSA-Practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
